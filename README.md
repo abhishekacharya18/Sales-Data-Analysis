@@ -29,3 +29,4 @@ This project analyzes e-commerce sales data to identify revenue trends, top prod
 
 ## 🚀 Outcome
 This project helps businesses make data-driven decisions using sales insights.
+![Dashboard](./dashboard.png)
